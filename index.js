@@ -26,6 +26,7 @@ age = 1234
  let name  = "Cheikh  Nouha"
  let message3 = `je suis ${name}`
  console.log(message3.length)
+ console.log(name.toLowerCase())
 
  nom = name.toLowerCase().endsWith("nouha".toLowerCase())
  console.log(nom)
@@ -40,7 +41,10 @@ age = 1234
 
 console.log("age",age)
 console.log("Bonjout tout le monde!")
+
 // Une fonction qui lie les donnes d'une base de donn
+
+  
 
  
  
